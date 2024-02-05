@@ -1,4 +1,4 @@
-// hello1.go
+// hello3.go
 package main
 
 import "fmt"
