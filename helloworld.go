@@ -10,4 +10,5 @@ func main() {
 	is a multi-line
 	comment */
 	fmt.Println("Hello World!")
+	// fmt.Println("This line will not execute")
 }
