@@ -8,5 +8,5 @@ import (
 func main() {
 	var i, j string = "Hello", "World!"
 
-	fmt.Print(i, j)
+	fmt.Print(i, "\n", j)
 }
